@@ -2,7 +2,7 @@
 Respostas para as questões fechadas
 
 Q1-
-(X) <link> 
+(X) "<link>"
 ( ) <href> 
 ( ) <a> 
 ( ) <url> 
