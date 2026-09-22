@@ -1,0 +1,67 @@
+body
+{
+    background-color: #767373;
+}
+
+td
+{
+    border: 2px solid #000000;
+}
+
+.tabela
+{
+    width: 700px;
+    height: 500px;
+    margin: 0 auto;
+    border: 1px solid #000000;
+    border-collapse: separate;
+    border-spacing: 4px;
+    table-layout: fixed;
+    background-color: #cccaca;
+}
+
+.cabecalho
+{
+    background-color: rgb(64, 73, 121);
+    color: rgb(247, 247, 249);
+    text-align:center;
+    padding: 5px;
+}
+
+.imagem
+{
+    text-align: center;
+    vertical-align: middle;
+    max-width: 100%;
+    padding: 5px;
+    background-color:white;
+}
+
+.imagem2
+{
+    border-radius: 100px;
+    border: 2.5px solid #000000;
+}
+.descricao
+{
+    padding: 5px;
+    background-color:white;
+}
+
+.rodape
+{
+    padding: 5px;
+    background-color:#727272;
+    color: #211f1f;
+    text-align: center;
+}
+
+.link
+{
+    color: #f42424;
+}
+
+.nome
+{
+    color: rgb(27, 33, 69);
+}
