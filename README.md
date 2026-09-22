@@ -12,6 +12,7 @@ Q1-
 ( ) url 
 
 
+
 Q2-
 
 ( ) style src="index.css" 
@@ -21,6 +22,7 @@ Q2-
 (X) link rel="stylesheet" href="index.css" 
 
 ( ) import href="index.css"
+
 
 
 Q3-
@@ -34,6 +36,7 @@ Q3-
 ( ) cabecalho() 
 
 
+
 Q4-
 
 ( ) td 
@@ -43,6 +46,7 @@ Q4-
 ( ) th 
 
 ( ) row
+
 
 
 Q5-
