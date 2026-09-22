@@ -2,6 +2,7 @@
 Respostas para as questões fechadas
 
 Q1- 
+
 (X) link 
 
 ( ) href 
@@ -11,6 +12,7 @@ Q1-
 ( ) url 
 
 Q2-
+
 ( ) style src="index.css" 
 
 ( ) css href="index.css" 
@@ -20,6 +22,7 @@ Q2-
 ( ) import href="index.css"
 
 Q3-
+
 ( ) #cabecalho 
 
 ( ) .cabecalho 
@@ -29,6 +32,7 @@ Q3-
 ( ) cabecalho() 
 
 Q4-
+
 ( ) td 
 
 (X) tr 
@@ -38,6 +42,7 @@ Q4-
 ( ) row
 
 Q5-
+
 ( ) color 
 
 (X) background-color 
