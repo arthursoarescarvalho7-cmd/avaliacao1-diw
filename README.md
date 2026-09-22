@@ -2,10 +2,7 @@
 Respostas para as questões fechadas
 
 Q1-
-(X) "<link>"
-( ) <href> 
-( ) <a> 
-( ) <url> 
+(X) <link>
 
 Q2-
 ( ) <style src="index.css"> 
