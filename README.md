@@ -1,8 +1,7 @@
 # avaliacao1-diw
 Respostas para as questões fechadas
 
-Q1-
-(X) <link>
+Q1-<link>
 
 Q2-
 ( ) <style src="index.css"> 
